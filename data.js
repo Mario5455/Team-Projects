@@ -1,4 +1,5 @@
-		// TASK 1: Our Team
+// Code worked for Codecool Courses		
+// TASK 1: Our Team
 
 	// Create an ourTeam variable and add an object as a value. Add a name (add a name for the team), and a members (an array where the members and their details go) key to the object.
 
